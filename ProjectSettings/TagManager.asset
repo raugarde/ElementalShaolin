@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - breakable
+  - enemy
+  - earthmaster
+  - enemyEarth
+  - collision
+  - earthSpell
+  - enemyAir
+  - enemyFire
+  - enemyWater
+  - airSpell
+  - finalmaster
+  - PlayerInvulnerability
+  - spellCollision
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Enemy
+  - Enemy Projectile
+  - Player Projectile
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Signs
+    uniqueID: 3336626795
+    locked: 0
+  - name: Master
+    uniqueID: 3445073515
+    locked: 0
+  - name: Player
+    uniqueID: 849465507
+    locked: 0
+  - name: breakable
+    uniqueID: 4169763833
+    locked: 0
